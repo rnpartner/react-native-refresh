@@ -1,3 +1,0 @@
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MJRefreshStatic.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/React.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/react_native_refresh.framework

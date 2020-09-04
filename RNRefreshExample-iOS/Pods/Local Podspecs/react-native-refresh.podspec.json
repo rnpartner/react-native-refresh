@@ -1,0 +1,24 @@
+{
+  "name": "react-native-refresh",
+  "version": "0.1.0",
+  "summary": "下拉刷新组件",
+  "homepage": "https://github.com/rnpartner/react-native-refresh.git#readme",
+  "license": "MIT",
+  "authors": "ryan <mob_developer@163.com> (https://github.com/runryan)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/rnpartner/react-native-refresh.git.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "MJRefreshStatic": [
+
+    ]
+  }
+}

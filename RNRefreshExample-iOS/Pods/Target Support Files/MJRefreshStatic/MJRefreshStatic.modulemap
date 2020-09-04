@@ -1,0 +1,6 @@
+framework module MJRefreshStatic {
+  umbrella header "MJRefreshStatic-umbrella.h"
+
+  export *
+  module * { export * }
+}
